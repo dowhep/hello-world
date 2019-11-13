@@ -16,3 +16,4 @@ C:\Users\caoga\Documents\GitHub\hello-world\ForFun\ForFun\ForFun\obj\Debug\netst
 C:\Users\caoga\Documents\GitHub\hello-world\ForFun\ForFun\ForFun\obj\Debug\netstandard2.0\ForFun.dll
 C:\Users\caoga\Documents\GitHub\hello-world\ForFun\ForFun\ForFun\obj\Debug\netstandard2.0\ref\ForFun.dll
 C:\Users\caoga\Documents\GitHub\hello-world\ForFun\ForFun\ForFun\obj\Debug\netstandard2.0\ForFun.pdb
+C:\Users\caoga\Documents\GitHub\hello-world\ForFun\ForFun\ForFun\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
